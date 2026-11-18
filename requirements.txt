@@ -1,0 +1,11 @@
+# CPU build of PyTorch for Streamlit Cloud. On a GPU PC, install the CUDA build first
+# (see README); pip will keep it.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+numpy
+pillow
+matplotlib
+pandas
+altair>=5
+streamlit>=1.50
+requests
