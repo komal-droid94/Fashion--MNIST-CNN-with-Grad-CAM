@@ -171,5 +171,3 @@ the results.
 [github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist), MIT License.
 **Grad-CAM:** Selvaraju et al. (2017), *Grad-CAM: Visual Explanations from Deep Networks via
 Gradient-based Localization*, ICCV.
-
-**Author:** [Your Name] · [GitHub] · [email]
